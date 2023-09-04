@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Market Phone</string>
+    <string-array name="data_name">
+        <item>Alcatel 1B</item>
+        <item>Iphone 14</item>
+        <item>Asus Zenfone 10</item>
+        <item>Google Pixel 7A</item>
+        <item>Honor X6A</item>
+        <item>Huawei Mate 60 Pro </item>
+        <item>Infinix Zero 30</item>
+        <item>Samsung Galaxy F34</item>
+        <item>Ulefone Armor X13</item>
+        <item>Xiaomi Redmi Note 10 Pro</item>
+    </string-array>
+    <string-array name="data_price">
+        <item>Rp.2000.000</item>
+        <item>Rp.30.000.000</item>
+        <item>Rp.6.000.000</item>
+        <item>Rp.15.000.000</item>
+        <item>Rp.1.800.000</item>
+        <item>Rp.3.000.000</item>
+        <item>Rp.10.000.000</item>
+        <item>Rp.4.000.000</item>
+        <item>Rp.5.000.000</item>
+        <item>Rp.1.500.000</item>
+    </string-array>
+    <string-array name="data_description">
+       <item>Network GSM/HSPA/LTE
+        Platform     OS Android 11 (Go Edition)
+                     Chipset Mediatek MT6761 Hello A22 (12nm)
+       Memory        Internal 32GB RAM 2GB</item>
+        <item>Network GSM/CDMA/HSPA/EVDO/LTE
+        Platform     OS iOS 16,upgradable to iOS 16.6, planned upgrade to iOS 17
+                     Chipset Apple A15 Bionic (5 nm)
+       Memory        Internal 128GB RAM 6GB, 256GB RAM 6GB, 512GB RAM 6GB  NVMeB</item>
+        <item>Network GSM/HSPA/LTE/5G
+        Platform     OS Android 13
+                     Chipset Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)
+       Memory        Internal 128GB RAM 8GB, 256GB RAM 8GB, 256GB RAM 16GB, 512GB RAM 16GB  UFS 4.0</item>
+        <item>Network GSM/HSPA/LTE/5G
+        Platform     OS Android 13
+                     Chipset Google Tensor G2 (5 nm)
+       Memory        Internal 128GB RAM 8GB UFS 3.1</item>
+        <item>Network GSM/HSPA/LTE
+        Platform     OS Android 13, Magic UI 7.1
+                     Chipset Mediatek Helio G36 (12 nm)
+       Memory        Internal 128GB RAM 4GB</item>
+        <item>Network GSM/CDMA/HSPA/CDMA2000/LTE
+        Platform     OS HarmonyOS 4.0 (China)
+                     Chipset Kirin 9000s (5nm)
+       Memory        Internal 256GB RAM 12GB, 512GB RAM 12GB, 1TB RAM 12GB UFS</item>
+        <item>Network GSM/HSPA/LTE/5G
+        Platform     OS Android 13, XOS 13
+                     Chipset Mediatek Dimensity 8020 (6nm)
+       Memory        Internal 256GB RAM 8GB, 256GB RAM 12GB UFS 3.1</item>
+        <item>Network GSM/HSPA/LTE/5G
+        Platform     OS Android 13, One UI 5.1
+                     Chipset Exynos 1280 (5nm)
+       Memory        Internal 128GB RAM 6GB, 128GB RAM 8GB, UFS 2.2</item>
+        <item>Network GSM/HSPA/LTE
+        Platform     OS Android 13
+                     Chipset Mediatek Helio G36 (12 nm)
+       Memory        Internal 64GB 6GB RAM eMMC 5.1</item>
+        <item>Network GSM/HSPA/LTE
+        Platform     OS Android 11, upgradable to Android 13, MIUI 14
+                     Chipset Qualcomm SM7150 Snapdragon 732G (8nm)
+       Memory        Internal 64GB RAM 6GB, 128GB RAM 6GB. 128GB RAM 8GB, 256GB RAM 8GB UFS 2.2</item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/alcatel</item>
+        <item>@drawable/apple</item>
+        <item>@drawable/asus</item>
+        <item>@drawable/google</item>
+        <item>@drawable/honor</item>
+        <item>@drawable/huawei</item>
+        <item>@drawable/infinix</item>
+        <item>@drawable/samsunggalaxyf34</item>
+        <item>@drawable/ulefhone</item>
+        <item>@drawable/xiaomiredminote10pro</item>
+
+    </integer-array>
+</resources>
